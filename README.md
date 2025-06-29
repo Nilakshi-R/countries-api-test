@@ -1,7 +1,7 @@
 # Country API Test Automation
 
 This project contains automated tests for the Country API. It validates the API response against specific acceptance criteria using **JUnit Jupiter**.
-Tested API is https://restcountries.com/v3.1/independent?status=true
+Tested API is
 ---
 
 ## **Acceptance Criteria**
