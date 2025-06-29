@@ -1,7 +1,8 @@
 # Country API Test Automation
 
 This project contains automated tests for the Country API. It validates the API response against specific acceptance criteria using **JUnit Jupiter**.
-Tested API is
+Tested API is API
+
 ---
 
 ## **Acceptance Criteria**
