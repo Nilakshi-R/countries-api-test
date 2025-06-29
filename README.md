@@ -1,7 +1,7 @@
 # Country API Test Automation
 
 This project contains automated tests for the Country API. It validates the API response against specific acceptance criteria using **JUnit Jupiter**.
-Tested API is API
+Tested API is [API](https://restcountries.com/v3.1/independent?status=true)
 
 ---
 
@@ -29,7 +29,7 @@ Before running the tests, ensure you have the following installed:
 
 ## **Setup**
 1. Clone the repository:
-   git clone [https://github.com/Nilakshi-R](https://github.com/Nilakshi-R/)
+   git clone [https://github.com/Nilakshi-R/countries-api-test](https://github.com/Nilakshi-R/countries-api-test)
 2. cd countries-api-test
 
 ---
